@@ -1,6 +1,6 @@
-# flutter_chat_app
+# Flutter_chat_app
 
-flutter app for chat
+### flutter app for chat
 
 ## Getting Started - TAEGI
 
