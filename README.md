@@ -2,7 +2,7 @@
 
 flutter app for chat
 
-## Getting Started
+## Getting Started - TAEGI
 
 This project is a starting point for a Flutter application.
 
