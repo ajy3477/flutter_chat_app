@@ -1,4 +1,5 @@
 # Flutter_chat_app
+# taegi, youngsu, junyoung
 
 ### flutter app for chat
 
